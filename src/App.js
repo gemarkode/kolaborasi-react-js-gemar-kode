@@ -6,7 +6,7 @@ import HomePage from './components/home/HomePage';
 import AboutPage from './components/about/AboutPage';
 import CommunityPage from './components/community/CommunityPage';
 import DeveloperPage from './components/developer/DeveloperPage';
-import { BrowserRouter, Link, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 const Page404 = ({ location }) => (
   <div className="App">
   <section class="py-5  bg-light text-center mt-5 mb-5">
