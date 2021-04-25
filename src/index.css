@@ -15,3 +15,6 @@
 .bg-three{
   background-color: #fff;
 }
+html {
+  scroll-behavior: smooth;
+}
